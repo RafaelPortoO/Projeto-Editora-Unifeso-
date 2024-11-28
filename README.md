@@ -1,5 +1,10 @@
 # Projeto-Editora-Unifeso-
 
+Integrantes: Rafael Porto de Oliveira 
+Matricula: 06007577
+e-mail: rafinhasj0510@gmail.com
+
+
 Requisitos funcionais
 
 RF01 - O sistema deve permitir que o administrador cadastre novas publicações, incluindo informações como título, autor, data de publicação, resumo e categorias.
